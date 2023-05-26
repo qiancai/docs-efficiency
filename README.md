@@ -1,1 +1,1 @@
-# for-docs-efficiency
+# docs-efficiency
